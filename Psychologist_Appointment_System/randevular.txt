@@ -1,4 +1,4 @@
 hakan aktan,1,8
 emel birlik,2,12
-faruk bera ,4,5
+faruk bera,4,5
 ahmet zumber,3,13
