@@ -4,7 +4,7 @@
  * dosyadan randevu sorgulamasini ve randevu silmesi gibi temel islemleri yapmasini saglar
  * @assignment Odev 2
  * @date 21.12.2019
- * @author Abdusamet KACI abdussamet.kaci@stu.fsm.edu.tr
+ * @author Abdusamet KACI
  */
 #include <stdio.h>
 #include "randevu.h"
